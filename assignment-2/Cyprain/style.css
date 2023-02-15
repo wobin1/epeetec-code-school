@@ -1,0 +1,90 @@
+html{background-color: rgb(5, 65, 65);
+width: 80%;
+}
+.right-pane{
+    margin-left: 4%;
+    margin-right: 5%;
+}
+.header{
+    margin-left: 0%;
+}
+body{
+    width: 65%;
+    background-color: white;
+    align-self: center;
+    margin-left: 30%;
+    display: flex;
+    border-radius: 4%;
+}
+.creative{
+    margin-top: 5%;
+}
+.Graphic{
+    margin-top: 5%;
+}
+.Gym{
+    margin-top: 5%;
+}
+.line-belowgym{
+    margin-top: 5%;
+}
+.left-pane{
+    background-color: black;
+    width: 60%;
+    height: 165vh;
+    border-top-left-radius: 4%;
+    border-bottom-left-radius: 4%;    
+}
+.profile-img{
+    clip-path: circle(50px)
+}
+.profile-1{
+    margin-top: 14%;
+}
+.profile-img{
+    border-image: round;
+}
+.PROFILE{
+    margin-left: 33%;
+    font-size: 60%;
+}
+.line-1{
+    margin-left: 17%;
+    margin-right: 10%;
+}
+.work-experience{
+    margin-top: 73%;
+}
+.WORK-EXPERIENCE{
+    margin-left: 7%;
+    font-size: 60%;
+}
+.line-2{
+    margin-left: 17%;
+    margin-right: 10%;
+}
+.Education{
+    font-size: 60%;
+    margin-left: 12%;
+}
+.line-3{
+    margin-left: 17%;
+    margin-right: 10%;
+}
+.EDU{
+    margin-top: 200%;
+}
+.SKILL{
+    margin-top: 157%;
+}
+.line-4{
+    margin-left: 17%;
+    margin-right: 10%;
+}
+.skills{
+    font-size: 60%;
+    margin-left: 44%;
+}
+.body-line1{
+    margin-top: 12%;
+}
